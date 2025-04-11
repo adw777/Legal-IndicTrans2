@@ -1,0 +1,16 @@
+torch
+accelerate
+datasets
+sentencepiece
+peft
+nltk
+sacremoses
+pandas
+regex
+mock
+mosestokenizer
+bitsandbytes
+scipy
+indic-nlp-library
+streamlit
+# flash-attn
