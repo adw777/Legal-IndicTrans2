@@ -13,4 +13,9 @@ bitsandbytes
 scipy
 indic-nlp-library
 streamlit
+uvicorn
+fastapi
+PyPDF2 
+python-multipart 
+uvicorn
 # flash-attn
